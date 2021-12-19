@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hi, I’m younes ismaili
-👀 I’m interested in CISSP(Cybersecurity) & web-development(to build own project)\n
+👀 I’m interested in CISSP(Cybersecurity) & web-development
 📫 How to reach me yo.ismailii@gmail.com
 -->
 
